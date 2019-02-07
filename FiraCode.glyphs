@@ -201,6 +201,18 @@ ascender = 739;
 capHeight = 689;
 customParameters = (
 {
+name = hheaAscender;
+value = 935;
+},
+{
+name = hheaDescender;
+value = "-265";
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
 value = 935;
 },
@@ -271,6 +283,18 @@ alignmentZones = (
 ascender = 742;
 capHeight = 693;
 customParameters = (
+{
+name = hheaAscender;
+value = 935;
+},
+{
+name = hheaDescender;
+value = "-265";
+},
+{
+name = hheaLineGap;
+value = 0;
+},
 {
 name = typoAscender;
 value = 935;
